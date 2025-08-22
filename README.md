@@ -3,9 +3,9 @@
 
 <img width="1354" alt="Dashboard Image" src="https://github.com/lavanyatamgade1828/Employee-Attrition-Analysis/blob/main/Dashboard%20image.png">
 
-# **HR Analytics Dashboard**
+# **Employee-Attrition-Analysis**
 
-The "HR Analytics Dashboard" project involved a comprehensive analysis of human resources data aimed at understanding employee dynamics and attrition within an organization. Through proficient data analysis in Microsoft Excel, several key insights and visualizations were derived:
+The "Employee-Attrition-Analysis" project involved a comprehensive analysis of human resources data aimed at understanding employee dynamics and attrition within an organization. Through proficient data analysis in Microsoft Excel, several key insights and visualizations were derived:
 
 - **Total Employees by Gender**: The project provided a gender-based breakdown of the organization's workforce, offering insights into gender diversity and representation.
 
@@ -17,4 +17,4 @@ The "HR Analytics Dashboard" project involved a comprehensive analysis of human 
 
 - **Attrition by Job Role**: Employee attrition was examined within specific job roles. This allowed for a targeted approach to understanding which roles were most susceptible to attrition, enabling proactive measures to retain talent in critical positions.
 
-The "HR Analytics Dashboard" project not only demonstrated proficiency in data analysis but also offered actionable insights for HR departments. By understanding the dynamics of gender diversity, departmental attrition, employee groups, marital status, and job roles, organizations can make more informed decisions to enhance employee satisfaction and reduce turnover. This project exemplified the power of data-driven HR strategies for talent management and retention.
+The "Employee-Attrition-Analysis" project not only demonstrated proficiency in data analysis but also offered actionable insights for HR departments. By understanding the dynamics of gender diversity, departmental attrition, employee groups, marital status, and job roles, organizations can make more informed decisions to enhance employee satisfaction and reduce turnover. This project exemplified the power of data-driven HR strategies for talent management and retention.
